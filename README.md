@@ -1,3 +1,3 @@
 # HMSLocationMapsReact
 HMS Location Maps React Native
-![alt text](https://www.dropbox.com/s/nvlsgrwmvcndxd6/MapLocationKit.JPG?dl=0)
+[![Map-Location-Kit.jpg](https://i.postimg.cc/g0Kd5jvm/Map-Location-Kit.jpg)](https://postimg.cc/rdzvR8nP)
